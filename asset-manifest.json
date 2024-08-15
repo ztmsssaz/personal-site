@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.41a4716b.css",
-    "main.js": "/static/js/main.1dd846be.js",
+    "main.css": "/static/css/main.abd7299c.css",
+    "main.js": "/static/js/main.a19fb9d7.js",
     "static/js/453.253ccfac.chunk.js": "/static/js/453.253ccfac.chunk.js",
     "static/media/lato-reg.ttf": "/static/media/lato-reg.79164ee524feb6583a94.ttf",
     "static/media/lato-bla.ttf": "/static/media/lato-bla.e5c10b5f2dd0f93e72d3.ttf",
@@ -10,12 +10,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.41a4716b.css.map": "/static/css/main.41a4716b.css.map",
-    "main.1dd846be.js.map": "/static/js/main.1dd846be.js.map",
+    "main.abd7299c.css.map": "/static/css/main.abd7299c.css.map",
+    "main.a19fb9d7.js.map": "/static/js/main.a19fb9d7.js.map",
     "453.253ccfac.chunk.js.map": "/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41a4716b.css",
-    "static/js/main.1dd846be.js"
+    "static/css/main.abd7299c.css",
+    "static/js/main.a19fb9d7.js"
   ]
 }
